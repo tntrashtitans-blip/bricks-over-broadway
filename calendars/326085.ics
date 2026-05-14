@@ -1,0 +1,1331 @@
+BEGIN:VCALENDAR
+PRODID:Hostaway Reservations & Availability Calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:43121-326085-972caf490c8e49ece2cd0f0160998db4
+DTSTAMP:20260512T210426Z
+SUMMARY:Katherine Caputo (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18653680991 \nNumber of Guests: 1 \n Total price: 362.2
+ 3\n Airbnb payout:267.72\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 20\nCheckout time: 11 \n - by Hostaway
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241111
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-ee203c041328375c4e8f60097a824c37
+DTSTAMP:20260512T210426Z
+SUMMARY:Gage Pewett (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16153063630 \nNumber of Guests: 1 \n Total price: 368.0
+ 1\n Airbnb payout:271.99\n Nights: 4 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241115
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-3c258e2bfa53a1ccaff5cfcd398a1192
+DTSTAMP:20260512T210426Z
+SUMMARY:Mike Brady (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19894307232 \nNumber of Guests: 2 \n Total price: 866.2
+ 2\n Airbnb payout:640.2\n Nights: 5 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241218
+DTEND;VALUE=DATE:20241223
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-b321e31d5515ae78b90b8309f706c299
+DTSTAMP:20260512T210426Z
+SUMMARY:Stephen Liverani (direct) - by Hostaway
+DESCRIPTION:Phone: +14404766928 \nNumber of Guests: 2 \n Total price: 1022.
+ 58\n  Nights: 10 \nChannel: direct\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20241204
+DTEND;VALUE=DATE:20241214
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-671ad5afb2c89027976226699447feca
+DTSTAMP:20260512T210426Z
+SUMMARY:Gage Pewett (bookingengine) - by Hostaway
+DESCRIPTION:Phone: +16153063630 \nNumber of Guests: 1 \n Total price: 443.3
+ 4\n  Nights: 5 \nChannel: bookingengine\nCheckin time: 16\nCheckout time: 
+ 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241117
+DTEND;VALUE=DATE:20241122
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-213175a036f89bc42d0ed0dcdbc22c57
+DTSTAMP:20260512T210426Z
+SUMMARY:Jessica Lisanti (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18454679452 \nNumber of Guests: 1 \n Total price: 358.3
+ \n Airbnb payout:264.81\n Nights: 2 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241117
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-edf31322f321dfae0e727b15ac19a4ce
+DTSTAMP:20260512T210426Z
+SUMMARY:Stephen Liverani (direct) - by Hostaway
+DESCRIPTION:Phone: +14404766928 \nNumber of Guests: 2 \n Total price: 171.9
+ 9\n  Nights: 2 \nChannel: direct\nCheckin time: 16\nCheckout time: 10 \n -
+  by Hostaway
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241204
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-16875a36b87d5e3719f4424680f559a7
+DTSTAMP:20260512T210426Z
+SUMMARY:Gage Pewett (direct) - by Hostaway
+DESCRIPTION:Phone:  \nNumber of Guests: 1 \n Total price: 638\n  Nights: 5 
+ \nChannel: direct\nCheckin time: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241124
+DTEND;VALUE=DATE:20241129
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-4641a9b06bde86d7d49ca35dfd549a8a
+DTSTAMP:20260512T210426Z
+SUMMARY:Sara Deatherage (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18653562077 \nNumber of Guests: 2 \n Total price: 375.3
+ 6\n Airbnb payout:277.42\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241124
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-a86828b06492e5a8132b29034d3e65c1
+DTSTAMP:20260512T210426Z
+SUMMARY:Abel Vargas (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18657385840 \nNumber of Guests: 2 \n Total price: 257.2
+ 4\n Airbnb payout:190.12\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241215
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-74012ff48140ea3dcd56815535529f6b
+DTSTAMP:20260512T210426Z
+SUMMARY:Kristy Mann (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19515517031 \nNumber of Guests: 2 \n Total price: 1060.
+ 45\n Airbnb payout:783.76\n Nights: 6 \nChannel: airbnbOfficial\nCheckin t
+ ime: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241231
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-7af1555f15babba892fcaa5f091510b9
+DTSTAMP:20260512T210426Z
+SUMMARY:Pam Sands (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19543035646 \nNumber of Guests: 2 \n Total price: 542.0
+ 4\n Airbnb payout:400.61\n Nights: 4 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250104
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-2c2e0ba2e6b1d7a848fe4c0108b854ec
+DTSTAMP:20260512T210426Z
+SUMMARY:Erik Badia (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +15162970860 \nNumber of Guests: 2 \n Total price: 560.4
+ 1\n Airbnb payout:414.19\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250223
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-48fd1dd834d0e5ce753a09cfebe3af41
+DTSTAMP:20260512T210426Z
+SUMMARY:Milenid Quintana (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +17874152916 \nNumber of Guests: 1 \n Total price: 680.3
+ 7\n Airbnb payout:502.85\n Nights: 9 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250115
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-d328515776ff6f67f5986350bb5f1ed8
+DTSTAMP:20260512T210426Z
+SUMMARY:Lee Smith (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18652000247 \nNumber of Guests: 2 \n Total price: 213.9
+ 3\n Airbnb payout:158.11\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-726a737d06de80ed4763e5e449398cf2
+DTSTAMP:20260512T210426Z
+SUMMARY:Bob Burke (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19788579288 \nNumber of Guests: 1 \n Total price: 416.0
+ 4\n Airbnb payout:307.49\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250202
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-ef90cd17fb2e99d618ee7ccb72cec60d
+DTSTAMP:20260512T210426Z
+SUMMARY:Michael Meek (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16155595106 \nNumber of Guests: 2 \n Total price: 333.3
+ 6\n Airbnb payout:246.38\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250118
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-c876d977828681f32da4691b0e5d1042
+DTSTAMP:20260512T210426Z
+SUMMARY:Kristina Hamilton (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +12819757928 \nNumber of Guests: 2 \n Total price: 191.6
+ 1\n Airbnb payout:141.62\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250126
+DTEND;VALUE=DATE:20250127
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-1257df50e824cd333cb946d4e0a2e9c5
+DTSTAMP:20260512T210426Z
+SUMMARY:David Dahlstrom (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18643957687 \nNumber of Guests: 1 \n Total price: 674.5
+ 9\n Airbnb payout:498.58\n Nights: 5 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250119
+DTEND;VALUE=DATE:20250124
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f6da2e8d66cdfda33cd8c87969edea01
+DTSTAMP:20260512T210426Z
+SUMMARY:Sara Beth Warne (homeaway) - by Hostaway
+DESCRIPTION:Phone: +16153309918 \nNumber of Guests: 2 \n Total price: 282.2
+ 2\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250206
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f3f6dc7d94335a5bb77ac746c3a12771
+DTSTAMP:20260512T210426Z
+SUMMARY:Eamonn Powers (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16189462993 \nNumber of Guests: 1 \n Total price: 380.6
+ 1\n Airbnb payout:281.3\n Nights: 4 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250131
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-799110a72c474324c30e40fd977870db
+DTSTAMP:20260512T210426Z
+SUMMARY:Teri Moger (homeaway) - by Hostaway
+DESCRIPTION:Phone: +15073580739 \nNumber of Guests: 2 \n Total price: 831.3
+ 6\n  Nights: 4 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250312
+DTEND;VALUE=DATE:20250316
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-3668f78f481ef5dd70fe761e6fef0fb0
+DTSTAMP:20260512T210426Z
+SUMMARY:Parker Work (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +17033958208 \nNumber of Guests: 2 \n Total price: 388.4
+ 8\n Airbnb payout:287.12\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250209
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-1b2c5dfa11eed022c0ade9f3f7ec92f9
+DTSTAMP:20260512T210426Z
+SUMMARY:Mary Sajfar (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +13365613531 \nNumber of Guests: 1 \n Total price: 314.9
+ 8\n Airbnb payout:232.8\n Nights: 3 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250209
+DTEND;VALUE=DATE:20250212
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-b4e2d17f5c31eb6faa9f05ab6c240fa8
+DTSTAMP:20260512T210426Z
+SUMMARY:James Kulich (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +13124980070 \nNumber of Guests: 1 \n Total price: 385.8
+ 6\n Airbnb payout:285.18\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250502
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-136bec21f24fe00a80f1af9956458882
+DTSTAMP:20260512T210426Z
+SUMMARY:Garrett Zinnecker (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +15408404962 \nNumber of Guests: 2 \n Total price: 186.3
+ 7\n Airbnb payout:137.74\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-e676c536b2dc71d5949bead0f0bc3039
+DTSTAMP:20260512T210426Z
+SUMMARY:AJ Vertino AJ Vertino (bookingengine) - by Hostaway
+DESCRIPTION:Phone: +17035823209 \nNumber of Guests: 1 \n Total price: 331.3
+ \n  Nights: 2 \nChannel: bookingengine\nCheckin time: 16\nCheckout time: 1
+ 0 \n - by Hostaway
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250216
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-8c93147815acb520cea546d35b93c1fc
+DTSTAMP:20260512T210426Z
+SUMMARY:Mary Sajfar (bookingengine) - by Hostaway
+DESCRIPTION:Phone: +13365613531 \nNumber of Guests: 1 \n Total price: 302.7
+ 2\n  Nights: 3 \nChannel: bookingengine\nCheckin time: 16\nCheckout time: 
+ 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250227
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-bdbf78afba1e7b09bf1575146498c3b8
+DTSTAMP:20260512T210426Z
+SUMMARY:Colin Rosenhagen (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18596635005 \nNumber of Guests: 2 \n Total price: 921.3
+ 4\n Airbnb payout:680.94\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250427
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-7a4b13dc30c468223d6a83b35027bb70
+DTSTAMP:20260512T210426Z
+SUMMARY:Tiffany Mccrary (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +12055411441 \nNumber of Guests: 1 \n Total price: 485.6
+ 1\n Airbnb payout:358.9\n Nights: 5 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250216
+DTEND;VALUE=DATE:20250221
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-555b86a6e6a3e84dcb75d2870eb543ac
+DTSTAMP:20260512T210426Z
+SUMMARY:Orla Sherwood (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +353870668283 \nNumber of Guests: 2 \n Total price: 507.
+ 31\n Airbnb payout:361.81\n Nights: 3 \nChannel: airbnbOfficial\nCheckin t
+ ime: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250418
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-3ead0cc864bdb3c62ae127479dc60faf
+DTSTAMP:20260512T210426Z
+SUMMARY:Joseph Weiss (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18606082702 \nNumber of Guests: 2 \n Total price: 650.9
+ 7\n Airbnb payout:481.12\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250306
+DTEND;VALUE=DATE:20250309
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-614e49c855c008080f4e05741b2de7dd
+DTSTAMP:20260512T210426Z
+SUMMARY:Jeff Jones (homeaway) - by Hostaway
+DESCRIPTION:Phone: +12054780631 \nNumber of Guests: 2 \n Total price: 518.7
+ 5\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250330
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-c4a20a2017459ecc5ef7643b90b7c0a9
+DTSTAMP:20260512T210426Z
+SUMMARY:Ahanu Banerjee (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +14043147603 \nNumber of Guests: 2 \n Total price: 249.3
+ 6\n Airbnb payout:184.3\n Nights: 2 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250318
+DTEND;VALUE=DATE:20250320
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-2911e6c32b584edbabc8fd40d9884541
+DTSTAMP:20260512T210426Z
+SUMMARY:Nate Long (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +17048980163 \nNumber of Guests: 1 \n Total price: 656.2
+ 2\n Airbnb payout:485\n Nights: 5 \nChannel: airbnbOfficial\nCheckin time:
+  16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250323
+DTEND;VALUE=DATE:20250328
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-2655a7540438f7c710ab46a0fc6a2f44
+DTSTAMP:20260512T210426Z
+SUMMARY:Matthew Vesser (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18652420991 \nNumber of Guests: 2 \n Total price: 271.6
+ 7\n Airbnb payout:200.79\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-4333612721347a4239eeb38b07292a5e
+DTSTAMP:20260512T210426Z
+SUMMARY:Laura Ike (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +13016557878 \nNumber of Guests: 2 \n Total price: 1947.
+ 79\n Airbnb payout:1439.58\n Nights: 15 \nChannel: airbnbOfficial\nCheckin
+  time: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250415
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-3a8e1aa9dceb7f5c534d19b095007e8d
+DTSTAMP:20260512T210426Z
+SUMMARY:Pam O'Connor (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +17152500740 \nNumber of Guests: 2 \n Total price: 332.0
+ 5\n Airbnb payout:245.41\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250424
+DTEND;VALUE=DATE:20250425
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-2b27b3163ad74b80615efc6469b69e17
+DTSTAMP:20260512T210426Z
+SUMMARY:Cheryl Hoffman (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16155333388 \nNumber of Guests: 1 \n Total price: 612.9
+ 1\n Airbnb payout:452.99\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250921
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-ada56be4545cf5d8a92d73cda645fc00
+DTSTAMP:20260512T210426Z
+SUMMARY:Roger Dober (homeaway) - by Hostaway
+DESCRIPTION:Phone: +17049539851 \nNumber of Guests: 2 \n Total price: 451.1
+ 9\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250510
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-61fb64cdc15616cb6c408a664b53a6d4
+DTSTAMP:20260512T210426Z
+SUMMARY:Sandy Noonan (homeaway) - by Hostaway
+DESCRIPTION:Phone: +16236889761 \nNumber of Guests: 1 \n Total price: 576.4
+ 9\n  Nights: 3 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250611
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-e3191bbbfcde238584abfe55d600bd87
+DTSTAMP:20260512T210426Z
+SUMMARY:Caleb Pollard (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +17708424203 \nNumber of Guests: 2 \n Total price: 317.6
+ 1\n Airbnb payout:234.74\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250424
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-772aed32dabc953b754b09906e4867c4
+DTSTAMP:20260512T210426Z
+SUMMARY:Barbara Long (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16154157849 \nNumber of Guests: 1 \n Total price: 1367.
+ 82\n Airbnb payout:1010.93\n Nights: 7 \nChannel: airbnbOfficial\nCheckin 
+ time: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250522
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-a2c001a32a5ddd2ee6abd863cbf55200
+DTSTAMP:20260512T210426Z
+SUMMARY:Rick And Luci Galloway (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +17708262476 \nNumber of Guests: 2 \n Total price: 366.1
+ 7\n Airbnb payout:270.63\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250505
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-424ebeef04112ac459af105c6c89e2a6
+DTSTAMP:20260512T210426Z
+SUMMARY:Tara Gail Bostwick (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18034398139 \nNumber of Guests: 1 \n Total price: 647.0
+ 3\n Airbnb payout:478.21\n Nights: 5 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250515
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-e41316dfd928f03dfdcfe114e2a563c8
+DTSTAMP:20260512T210426Z
+SUMMARY:Ashley Schwartz (direct) - by Hostaway
+DESCRIPTION:Phone:  \nNumber of Guests: 2 \n Total price: 239\n  Nights: 1 
+ \nChannel: direct\nCheckin time: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250525
+DTEND;VALUE=DATE:20250526
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-389baa8e94ace1d517a6de2e4eac706e
+DTSTAMP:20260512T210426Z
+SUMMARY:Tress Tipton (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18433677405 \nNumber of Guests: 1 \n Total price: 1227.
+ 13\n Airbnb payout:906.95\n Nights: 5 \nChannel: airbnbOfficial\nCheckin t
+ ime: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250702
+DTEND;VALUE=DATE:20250707
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-bb37cc4376d85813964edaa733c00923
+DTSTAMP:20260512T210426Z
+SUMMARY:Debbie Cole (homeaway) - by Hostaway
+DESCRIPTION:Phone: +15403129582 \nNumber of Guests: 2 \n Total price: 309.9
+ 9\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250524
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-9203b86f706f66bb5a124f657578ecae
+DTSTAMP:20260512T210426Z
+SUMMARY:Spencer Eatherly (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16156045666 \nNumber of Guests: 2 \n Total price: 238.8
+ 6\n Airbnb payout:176.54\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 12\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-53cf54c8c9ceda23ab1dbc29948249c6
+DTSTAMP:20260512T210426Z
+SUMMARY:Luke Wid (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +13086604348 \nNumber of Guests: 1 \n Total price: 876.7
+ 2\n Airbnb payout:647.96\n Nights: 4 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250718
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f838fd87f5d6e69b8bf69c1209700161
+DTSTAMP:20260512T210426Z
+SUMMARY:Jenny Walenta (homeaway) - by Hostaway
+DESCRIPTION:Phone: +19736508860 \nNumber of Guests: 1 \n Total price: 226.4
+ 6\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250530
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-76128d8850394af2b52bff8dfd0249d5
+DTSTAMP:20260512T210426Z
+SUMMARY:Kimberly Lynch (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19547403528 \nNumber of Guests: 2 \n Total price: 284.8
+ \n Airbnb payout:210.49\n Nights: 1 \nChannel: airbnbOfficial\nCheckin tim
+ e: 13\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-879ee945c0e9780ff921c41c86b073ac
+DTSTAMP:20260512T210426Z
+SUMMARY:Jennifer Short (bookingengine) - by Hostaway
+DESCRIPTION:Phone: +18656077205 \nNumber of Guests: 2 \n Total price: 630.5
+ 9\n  Nights: 3 \nChannel: bookingengine\nCheckin time: 16\nCheckout time: 
+ 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250612
+DTEND;VALUE=DATE:20250615
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-50e4b31133c9cd75696b5fbc947dd5a0
+DTSTAMP:20260512T210426Z
+SUMMARY:Blair Smith (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16063918368 \nNumber of Guests: 2 \n Total price: 402.9
+ 2\n Airbnb payout:297.79\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 17\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250601
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-c2ffd4f18dc85ec0def3e69b78c1f27f
+DTSTAMP:20260512T210426Z
+SUMMARY:Jamie Walker (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19014614748 \nNumber of Guests: 2 \n Total price: 523.6
+ 6\n Airbnb payout:387.03\n Nights: 4 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250606
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-6321af48ab686549f292d57327cf27c4
+DTSTAMP:20260512T210426Z
+SUMMARY:Jonathan Allison (homeaway) - by Hostaway
+DESCRIPTION:Phone: +16145659096 \nNumber of Guests: 2 \n Total price: 796.4
+ 8\n  Nights: 3 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251009
+DTEND;VALUE=DATE:20251012
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-73e9bf8e160252860bb215f0ad75f455
+DTSTAMP:20260512T210426Z
+SUMMARY:Naomi Tsigaridas (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +14344060307 \nNumber of Guests: 1 \n Total price: 1240.
+ 91\n Airbnb payout:917.13\n Nights: 7 \nChannel: airbnbOfficial\nCheckin t
+ ime: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251227
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-09b0e5a9df08d117b35e6e7eb282cf21
+DTSTAMP:20260512T210426Z
+SUMMARY:Abigail Duren (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +17707579627 \nNumber of Guests: 1 \n Total price: 734.9
+ 7\n Airbnb payout:543.2\n Nights: 4 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250620
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-3002857ff8793191a7019a970ba56d01
+DTSTAMP:20260512T210426Z
+SUMMARY:Kent & Rachel Measell (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16164851660 \nNumber of Guests: 1 \n Total price: 647.0
+ 3\n Airbnb payout:478.21\n Nights: 4 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250627
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-559da1a9af66cdf4fdb517905209ef6b
+DTSTAMP:20260512T210426Z
+SUMMARY:Stephanie Groves (homeaway) - by Hostaway
+DESCRIPTION:Phone: +18654055680 \nNumber of Guests: 2 \n Total price: 291.5
+ 6\n  Nights: 1 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-21a971de43b5f9d81e4b673295520030
+DTSTAMP:20260512T210426Z
+SUMMARY:Patrick Miller (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18652164536 \nNumber of Guests: 2 \n Total price: 527.6
+ \n Airbnb payout:389.94\n Nights: 2 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250622
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-beb85cac01ba667f887bd393de289213
+DTSTAMP:20260512T210426Z
+SUMMARY:Evangeline Adams (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18659954589 \nNumber of Guests: 2 \n Total price: 433.1
+ 1\n Airbnb payout:320.1\n Nights: 2 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250630
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f72c496223e4b0c013e7faba72d78bb1
+DTSTAMP:20260512T210426Z
+SUMMARY:Jacob Condry (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18659646494 \nNumber of Guests: 1 \n Total price: 261.1
+ 7\n Airbnb payout:193.03\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250731
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-2f75be0bcc5a229abfc61316c88490bf
+DTSTAMP:20260512T210426Z
+SUMMARY:Chuck Campbell (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16507736548 \nNumber of Guests: 2 \n Total price: 686.4
+ 1\n Airbnb payout:507.31\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250713
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-be93f6de38e6c3d8a64e1169abbf189c
+DTSTAMP:20260512T210426Z
+SUMMARY:Chuck Campbell (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16507736548 \nNumber of Guests: 2 \n Total price: 860.9
+ 6\n Airbnb payout:636.32\n Nights: 4 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250813
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f63126d2fb17c85cce6fb8ed58a619c5
+DTSTAMP:20260512T210426Z
+SUMMARY:R I (homeaway) - by Hostaway
+DESCRIPTION:Phone: +13313042016 \nNumber of Guests: 2 \n Total price: 220.3
+ 1\n  Nights: 1 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250911
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-ad0455d2dd33e4a0b06fca158eab8a27
+DTSTAMP:20260512T210426Z
+SUMMARY:Teresa Long (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16785213312 \nNumber of Guests: 2 \n Total price: 551.2
+ 2\n Airbnb payout:407.4\n Nights: 2 \nChannel: airbnbOfficial\nCheckin tim
+ e: 14\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250720
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-cac21c22368f914e9c6a5cbf08c7a386
+DTSTAMP:20260512T210426Z
+SUMMARY:Brad Lucht (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +13098463777 \nNumber of Guests: 2 \n Total price: 347.7
+ 9\n Airbnb payout:257.05\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250804
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-06a569b4a018b896d2b67e057b5bb173
+DTSTAMP:20260512T210426Z
+SUMMARY:Rebecca Wade (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +962795319598 \nNumber of Guests: 2 \n Total price: 493.
+ 48\n Airbnb payout:364.72\n Nights: 4 \nChannel: airbnbOfficial\nCheckin t
+ ime: 17\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250808
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-1942277bb052a8a8edec70a4066b9b6a
+DTSTAMP:20260512T210426Z
+SUMMARY:Kristi Klein (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +14076876236 \nNumber of Guests: 2 \n Total price: 553.8
+ 5\n Airbnb payout:409.34\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251024
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-28a2e20ed797192b9fff5257caef3719
+DTSTAMP:20260512T210426Z
+SUMMARY:Jason Eaton (homeaway) - by Hostaway
+DESCRIPTION:Phone: +17576466098 \nNumber of Guests: 2 \n Total price: 481.7
+ 7\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250928
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-4e7aaf7ff328b47f029f995a6ba4d801
+DTSTAMP:20260512T210426Z
+SUMMARY:wilfred vallely (homeaway) - by Hostaway
+DESCRIPTION:Phone: +19145487918 \nNumber of Guests: 2 \n Total price: 456.4
+ 7\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251018
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-4d95912f249ab21545fd4d267502ec58
+DTSTAMP:20260512T210426Z
+SUMMARY:Trey Yant (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19013833496 \nNumber of Guests: 1 \n Total price: 669.3
+ 5\n Airbnb payout:494.7\n Nights: 4 \nChannel: airbnbOfficial\nCheckin tim
+ e: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250905
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-618c31c06182111b6ec4da76f56bf438
+DTSTAMP:20260512T210426Z
+SUMMARY:Lisa Raney (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +15599057114 \nNumber of Guests: 2 \n Total price: 485.6
+ 1\n Airbnb payout:358.9\n Nights: 3 \nChannel: airbnbOfficial\nCheckin tim
+ e: 17\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250817
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-ea92c8baa0b44147dc55fc859019eac8
+DTSTAMP:20260512T210426Z
+SUMMARY:Jason Eaton (homeaway) - by Hostaway
+DESCRIPTION:Phone: +17576466098 \nNumber of Guests: 1 \n Total price: 264.8
+ 8\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250817
+DTEND;VALUE=DATE:20250819
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-8671669f41c5a592e42b7b5983cc97f4
+DTSTAMP:20260512T210426Z
+SUMMARY:Troy Steen (homeaway) - by Hostaway
+DESCRIPTION:Phone: +14108295068 \nNumber of Guests: 2 \n Total price: 637.2
+ \n  Nights: 3 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n 
+ - by Hostaway
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251117
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-ebe84e09b48073cf31712d47cdd34ca3
+DTSTAMP:20260512T210426Z
+SUMMARY:Kevin Kammer (bookingengine) - by Hostaway
+DESCRIPTION:Phone: +14806503539 \nNumber of Guests: 1 \n Total price: 727.7
+ 6\n  Nights: 5 \nChannel: bookingengine\nCheckin time: 16\nCheckout time: 
+ 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250901
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-1ca3c8c0dd57c86ec21dbc87ca70bcca
+DTSTAMP:20260512T210426Z
+SUMMARY:Chris Neal (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18124839410 \nNumber of Guests: 2 \n Total price: 343.8
+ 6\n Airbnb payout:254.14\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250827
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-74fbef72124b517891aa86d51b82acfb
+DTSTAMP:20260512T210426Z
+SUMMARY:Chuck Campbell (direct) - by Hostaway
+DESCRIPTION:Phone: +19515533902 \nNumber of Guests: 2 \n Total price: 970.5
+ 4\n  Nights: 4 \nChannel: direct\nCheckin time: 16\nCheckout time: 10 \n -
+  by Hostaway
+DTSTART;VALUE=DATE:20250911
+DTEND;VALUE=DATE:20250915
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-1617f523db356f4157d9c0939036cd5a
+DTSTAMP:20260512T210426Z
+SUMMARY:Leslie Rothrock (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19187203440 \nNumber of Guests: 1 \n Total price: 553.8
+ 5\n Airbnb payout:409.34\n Nights: 4 \nChannel: airbnbOfficial\nCheckin ti
+ me: 0\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250909
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-712bc5b4d8d2ee6cbd54139defc8112b
+DTSTAMP:20260512T210426Z
+SUMMARY:Teresa Grossi (homeaway) - by Hostaway
+DESCRIPTION:Phone: +19412701082 \nNumber of Guests: 2 \n Total price: 133.6
+ 5\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250924
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-675237f4cc640a89007545b1d00648f0
+DTSTAMP:20260512T210426Z
+SUMMARY:Zach Delaney (homeaway) - by Hostaway
+DESCRIPTION:Phone: +17316072124 \nNumber of Guests: 1 \n Total price: 266.0
+ 8\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20250924
+DTEND;VALUE=DATE:20250926
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-56fee624e232a3efe00e5c27e546e25c
+DTSTAMP:20260512T210426Z
+SUMMARY:David Stambaugh (homeaway) - by Hostaway
+DESCRIPTION:Phone: +16196024261 \nNumber of Guests: 2 \n Total price: 671.9
+ 1\n  Nights: 5 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251007
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-c03539c1e9bb920e68976156831a44ce
+DTSTAMP:20260512T210426Z
+SUMMARY:Buddy Ethridge (homeaway) - by Hostaway
+DESCRIPTION:Phone: +12252812122 \nNumber of Guests: 2 \n Total price: 328.9
+ 1\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251104
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-bf1d54ffc5c5f80a28b1550a7627ec83
+DTSTAMP:20260512T210426Z
+SUMMARY:Melissa Gauldin (homeaway) - by Hostaway
+DESCRIPTION:Phone: +17316765935 \nNumber of Guests: 2 \n Total price: 256.9
+ 4\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251016
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-d593541d04b7548a11e8a6987b926e6a
+DTSTAMP:20260512T210426Z
+SUMMARY:Cierra Fontinell (homeaway) - by Hostaway
+DESCRIPTION:Phone: +18655189692 \nNumber of Guests: 2 \n Total price: 314.3
+ \n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n 
+ - by Hostaway
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251020
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f23045f7d52270c126c9d3cbbce56a6d
+DTSTAMP:20260512T210426Z
+SUMMARY:Erica Keeton (homeaway) - by Hostaway
+DESCRIPTION:Phone: +19702328877 \nNumber of Guests: 2 \n Total price: 1032.
+ 88\n  Nights: 4 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \
+ n - by Hostaway
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251130
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-9d2ef6f36828f4198d22823302fcff1f
+DTSTAMP:20260512T210426Z
+SUMMARY:Tim Hannon (homeaway) - by Hostaway
+DESCRIPTION:Phone: +16308357722 \nNumber of Guests: 2 \n Total price: 575.2
+ \n  Nights: 3 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n 
+ - by Hostaway
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251101
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-8ae829a4a1efd72e7be1b40e879ad20c
+DTSTAMP:20260512T210426Z
+SUMMARY:Heather Alderman (homeaway) - by Hostaway
+DESCRIPTION:Phone: +19046072854 \nNumber of Guests: 2 \n Total price: 340.1
+ 4\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251114
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-1d5e11ca42ba65b09415731a35d4b7d2
+DTSTAMP:20260512T210426Z
+SUMMARY:Susan Nottingham (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19049457333 \nNumber of Guests: 2 \n Total price: 321.5
+ 5\n Airbnb payout:237.65\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-b568bab258783c9efea8f75df82d7344
+DTSTAMP:20260512T210426Z
+SUMMARY:Travis Tindol III (homeaway) - by Hostaway
+DESCRIPTION:Phone: +13613182988 \nNumber of Guests: 1 \n Total price: 354.7
+ 6\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251027
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-5f5381b62d701bbf5af4bcedb2419ade
+DTSTAMP:20260512T210426Z
+SUMMARY:Ginny Fowler (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16156183296 \nNumber of Guests: 2 \n Total price: 397.0
+ 2\n Airbnb payout:289.83\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-5c690bf143c7741cd1bc5f0e9b2e5034
+DTSTAMP:20260512T210426Z
+SUMMARY:Ben Ryan (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19147153504 \nNumber of Guests: 1 \n Total price: 346.0
+ 9\n Airbnb payout:252.65\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251107
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-9b8a2c10bb6b802b7acd68466e8946e7
+DTSTAMP:20260512T210426Z
+SUMMARY:Jessica Hendrix (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +15125162480 \nNumber of Guests: 2 \n Total price: 500.0
+ 4\n Airbnb payout:365.04\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260301
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f25be55ad107dfd51738c26e0fad1c3d
+DTSTAMP:20260512T210426Z
+SUMMARY:Angela Canter (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18658067366 \nNumber of Guests: 2 \n Total price: 456.0
+ 6\n Airbnb payout:332.93\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251213
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f5a2e53b9d02b1b6179d2c54496e0d85
+DTSTAMP:20260512T210426Z
+SUMMARY:Matthew Carter (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18652304284 \nNumber of Guests: 1 \n Total price: 510.4
+ 6\n Airbnb payout:372.64\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 20\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251110
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-b1e549c35b54ca9bafe1c839924d21c0
+DTSTAMP:20260512T210426Z
+SUMMARY:Juwan Mitchell (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +17327998783 \nNumber of Guests: 1 \n Total price: 187.5
+ 2\n Airbnb payout:136.89\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-40c83337b3c2703b0e1e1a1f02cadc3f
+DTSTAMP:20260512T210426Z
+SUMMARY:Tony Renta (homeaway) - by Hostaway
+DESCRIPTION:Phone: +12059027275 \nNumber of Guests: 2 \n Total price: 460.4
+ 9\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20260101
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-329fb32f985925b27370147d91cca6bf
+DTSTAMP:20260512T210426Z
+SUMMARY:Richard Thompson (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +12165330077 \nNumber of Guests: 2 \n Total price: 1071.
+ 85\n Airbnb payout:782.47\n Nights: 4 \nChannel: airbnbOfficial\nCheckin t
+ ime: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260517
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f36189f8469ecbc94585cae58cb67da9
+DTSTAMP:20260512T210426Z
+SUMMARY:Daniel Rademacher (homeaway) - by Hostaway
+DESCRIPTION:Phone: +15038576482 \nNumber of Guests: 2 \n Total price: 683.1
+ 6\n  Nights: 5 \nChannel: homeaway\nCheckin time: 13\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251211
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-a45e8c8b12cdbf25ffb2ae23a81de1bd
+DTSTAMP:20260512T210426Z
+SUMMARY:Joey Orr (homeaway) - by Hostaway
+DESCRIPTION:Phone: +13125503861 \nNumber of Guests: 1 \n Total price: 278.3
+ \n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n 
+ - by Hostaway
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20251204
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-00b5e5dcc89f956e1e3aeaed6b5bb9c5
+DTSTAMP:20260512T210426Z
+SUMMARY:Carol Beaverson (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18657197959 \nNumber of Guests: 1 \n Total price: 221.0
+ 8\n Airbnb payout:161.39\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-4e6b7797b5896f30c419d24f1e1d4a70
+DTSTAMP:20260512T210426Z
+SUMMARY:Tiffany Mccrary (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +12055411441 \nNumber of Guests: 2 \n Total price: 386.6
+ 1\n Airbnb payout:282.23\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251217
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-318e192f919deb57af250650e1f04d0b
+DTSTAMP:20260512T210426Z
+SUMMARY:Mackenzie Rose (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +15867182080 \nNumber of Guests: 2 \n Total price: 405.1
+ 3\n Airbnb payout:295.75\n Nights: 2 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251229
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-7b7130c85224baa35f85fb6627eb0166
+DTSTAMP:20260512T210426Z
+SUMMARY:Andrew Henderson (homeaway) - by Hostaway
+DESCRIPTION:Phone: +18655564399 \nNumber of Guests: 1 \n Total price: 588.6
+ 8\n  Nights: 5 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260106
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-c623038a0b6c9010bec3a5c1aa8546de
+DTSTAMP:20260512T210426Z
+SUMMARY:Catherine Kenworthy (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18135705880 \nNumber of Guests: 1 \n Total price: 370.4
+ \n Airbnb payout:270.4\n Nights: 3 \nChannel: airbnbOfficial\nCheckin time
+ : 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260109
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-1e771064e0b616412657a294cc181187
+DTSTAMP:20260512T210426Z
+SUMMARY:Stephanie Lou Haymond (homeaway) - by Hostaway
+DESCRIPTION:Phone: +18015994350 \nNumber of Guests: 2 \n Total price: 1002.
+ 53\n  Nights: 4 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \
+ n - by Hostaway
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261019
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-8a0458bc5b94d061ee56ae77a68c7eb7
+DTSTAMP:20260512T210426Z
+SUMMARY:Zach Luckey (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18653565323 \nNumber of Guests: 2 \n Total price: 234.9
+ 7\n Airbnb payout:171.53\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-c5ab455f9cf5d3ab86faaf9fe87b3eac
+DTSTAMP:20260512T210426Z
+SUMMARY:Kelly Crim (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18649789020 \nNumber of Guests: 2 \n Total price: 226.8
+ 7\n Airbnb payout:165.62\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-ae7a389e4b19b438b7ada25be1a1622d
+DTSTAMP:20260512T210426Z
+SUMMARY:Jeff Houston (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +15702693245 \nNumber of Guests: 1 \n Total price: 358.8
+ 3\n Airbnb payout:261.95\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260115
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-d006c7eb09118eee0d8888cece5fd7dd
+DTSTAMP:20260512T210426Z
+SUMMARY:Elizabeth Corwin (homeaway) - by Hostaway
+DESCRIPTION:Phone: +18654560949 \nNumber of Guests: 2 \n Total price: 2677.
+ 09\n  Nights: 28 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 
+ \n - by Hostaway
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260225
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-855afc382aed1d51523721214a39cd66
+DTSTAMP:20260512T210426Z
+SUMMARY:Karen Stevens (homeaway) - by Hostaway
+DESCRIPTION:Phone: +19405950722 \nNumber of Guests: 2 \n Total price: 1149.
+ 98\n  Nights: 6 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \
+ n - by Hostaway
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260613
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-24ab4293ec69fd3aa03138f6914340f8
+DTSTAMP:20260512T210426Z
+SUMMARY:Elizabeth Corwing (direct) - by Hostaway
+DESCRIPTION:Phone: +18654560949 \nNumber of Guests: 1 \n Total price: 1370.
+ 46\n  Nights: 11 \nChannel: direct\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260430
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-9968e7515ccfc5693c240ef334c78bc2
+DTSTAMP:20260512T210426Z
+SUMMARY:Susan Witt (homeaway) - by Hostaway
+DESCRIPTION:Phone: +14042726656 \nNumber of Guests: 2 \n Total price: 759.7
+ 2\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260315
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-bad12a4661bc459b57a1565c2736aa48
+DTSTAMP:20260512T210426Z
+SUMMARY:Melissa McKelvey (homeaway) - by Hostaway
+DESCRIPTION:Phone: +17204138920 \nNumber of Guests: 1 \n Total price: 680.9
+ 4\n  Nights: 4 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260405
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-487b79f5395eb3738aa5b34d232583fb
+DTSTAMP:20260512T210426Z
+SUMMARY:Bo Hudso (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +16158785500 \nNumber of Guests: 1 \n Total price: 911.0
+ 7\n Airbnb payout:665.1\n Nights: 10 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260311
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-be58529632c550f30f593c6bb60a5cf1
+DTSTAMP:20260512T210426Z
+SUMMARY:Charles Millar (homeaway) - by Hostaway
+DESCRIPTION:Phone: +17757713036 \nNumber of Guests: 2 \n Total price: 1522.
+ 42\n  Nights: 9 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \
+ n - by Hostaway
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260706
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-9b466babc10b600493973c57e32e8cc2
+DTSTAMP:20260512T210426Z
+SUMMARY:Madeleine Carlton (homeaway) - by Hostaway
+DESCRIPTION:Phone: +12183702279 \nNumber of Guests: 2 \n Total price: 571.1
+ 7\n  Nights: 4 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260522
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-a5aae44a0d367587176ce79b92b55cb6
+DTSTAMP:20260512T210426Z
+SUMMARY:Garrett Fernander (homeaway) - by Hostaway
+DESCRIPTION:Phone: +19372439319 \nNumber of Guests: 2 \n Total price: 324.1
+ 3\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260317
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-f8e25e4ce70c5a9ae9959f3aba398952
+DTSTAMP:20260512T210426Z
+SUMMARY:Edward Nall (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18506862723 \nNumber of Guests: 2 \n Total price: 232.6
+ 6\n Airbnb payout:169.84\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-26b04cfbb4c3382f19b3f8d01a835f14
+DTSTAMP:20260512T210426Z
+SUMMARY:Reed Nelson (homeaway) - by Hostaway
+DESCRIPTION:Phone: +16128408650 \nNumber of Guests: 2 \n Total price: 450.6
+ 3\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260412
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-05acdde9e1189b08affcc7187b1d0131
+DTSTAMP:20260512T210426Z
+SUMMARY:Melissa Ekeberg (homeaway) - by Hostaway
+DESCRIPTION:Phone: +17068974656 \nNumber of Guests: 2 \n Total price: 426.7
+ 7\n  Nights: 2 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260329
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-df567c12f4308eada9cf1903346a32e7
+DTSTAMP:20260512T210426Z
+SUMMARY:Andrew Williams (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18656061242 \nNumber of Guests: 2 \n Total price: 496.5
+ 7\n Airbnb payout:362.5\n Nights: 4 \nChannel: airbnbOfficial\nCheckin tim
+ e: 22\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260327
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-d68afc74bd8c85683c1710711f7e1842
+DTSTAMP:20260512T210426Z
+SUMMARY:Dena Altman (homeaway) - by Hostaway
+DESCRIPTION:Phone: +16154822673 \nNumber of Guests: 1 \n Total price: 356.3
+ 7\n  Nights: 3 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260401
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-af746e31ea19593f6eb5be06915d225c
+DTSTAMP:20260512T210426Z
+SUMMARY:Elizabeth Corwin (direct) - by Hostaway
+DESCRIPTION:Phone: +18654560949 \nNumber of Guests: 2 \n Total price: 1759.
+ 1\n  Nights: 13 \nChannel: direct\nCheckin time: 16\nCheckout time: 10 \n 
+ - by Hostaway
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260513
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-db88e3dda68ee43bf775e403518f42cb
+DTSTAMP:20260512T210426Z
+SUMMARY:Andrew Gann (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18656434266 \nNumber of Guests: 2 \n Total price: 359.9
+ 8\n Airbnb payout:262.79\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-4820f2344eeb80a83b75630cc70ba908
+DTSTAMP:20260512T210426Z
+SUMMARY:Leigh Chambers (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +18653566968 \nNumber of Guests: 1 \n Total price: 377.3
+ 5\n Airbnb payout:275.47\n Nights: 3 \nChannel: airbnbOfficial\nCheckin ti
+ me: 19\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-28ae017bea7c3089010c30d2746abecc
+DTSTAMP:20260512T210426Z
+SUMMARY:Paige Vest (homeaway) - by Hostaway
+DESCRIPTION:Phone: +18655562343 \nNumber of Guests: 2 \n Total price: 196.4
+ 4\n  Nights: 1 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-c22edac2f6315428e7211385edbe3f45
+DTSTAMP:20260512T210426Z
+SUMMARY:Chuck Campbell (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19515533902 \nNumber of Guests: 1 \n Total price: 816.0
+ 4\n Airbnb payout:595.72\n Nights: 4 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260419
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-23b00fd28478b1cf2c21546ecdb28517
+DTSTAMP:20260512T210426Z
+SUMMARY:Mark Lindsay (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +19419293147 \nNumber of Guests: 1 \n Total price: 1158.
+ 66\n Airbnb payout:845.84\n Nights: 6 \nChannel: airbnbOfficial\nCheckin t
+ ime: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260627
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-eaada56ba304445b7d1bc769e1252f14
+DTSTAMP:20260512T210426Z
+SUMMARY:William Bailey (homeaway) - by Hostaway
+DESCRIPTION:Phone: +15172855205 \nNumber of Guests: 2 \n Total price: 836.1
+ 1\n  Nights: 3 \nChannel: homeaway\nCheckin time: 16\nCheckout time: 10 \n
+  - by Hostaway
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:43121-326085-b821f5bcd2118edb18afcbbbe1bdd6a7
+DTSTAMP:20260512T210426Z
+SUMMARY:Zoei Stewart (airbnbOfficial) - by Hostaway
+DESCRIPTION:Phone: +13464125588 \nNumber of Guests: 1 \n Total price: 198.1
+ 8\n Airbnb payout:146.47\n Nights: 1 \nChannel: airbnbOfficial\nCheckin ti
+ me: 16\nCheckout time: 10 \n - by Hostaway
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250729
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0395da9c021
+DTSTAMP:20260512T210426Z
+SUMMARY:blocked
+DESCRIPTION:blocked - by Hostaway
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20280513
+END:VEVENT
+END:VCALENDAR
