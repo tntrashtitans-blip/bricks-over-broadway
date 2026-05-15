@@ -3133,6 +3133,10 @@ h3 {
     grid-template-columns: 1fr;
   }
 
+  .mobile-hidden {
+    display: none !important;
+  }
+
   .rental-grid--two,
   .rental-grid--four,
   .rental-grid--results {
@@ -3237,7 +3241,27 @@ h3 {
     grid-template-rows: 150px 1fr;
   }
 
+  .review-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
   .review-card {
-    grid-template-rows: minmax(0, 380px) auto;
+    grid-template-rows: minmax(0, 320px);
+    box-shadow: 0 8px 20px rgba(17, 24, 39, 0.08);
+  }
+
+  .review-card figcaption {
+    display: none;
+  }
+
+  .review-card__media b {
+    padding: 10px 12px 4px;
+    font-size: 1rem;
+  }
+
+  .review-card__media img {
+    object-fit: cover;
+    object-position: top center;
   }
 }
