@@ -3106,39 +3106,99 @@ h3 {
   .active-guide__grid,
   .stay-match-grid,
   .static-rental-summary .guide-list {
-    display: flex;
-    grid-template-columns: none;
-    gap: 14px;
-    margin-inline: calc(clamp(14px, 5vw, 28px) * -1);
-    padding: 2px clamp(14px, 5vw, 28px) 12px;
-    overflow-x: auto;
-    overscroll-behavior-x: contain;
-    scroll-snap-type: x mandatory;
-    scrollbar-width: thin;
+    display: grid;
+    gap: 12px;
+    margin-inline: 0;
+    padding: 0;
+    overflow: visible;
   }
 
-  .rental-grid > *,
-  .destination-grid > *,
-  .business-reason-grid > *,
-  .pleasure-reason-grid > *,
-  .reason-grid > *,
-  .itinerary-grid > *,
-  .guide-card-grid > *,
-  .review-card-grid > *,
-  .active-guide__grid > *,
-  .stay-match-grid > *,
-  .static-rental-summary .guide-list > * {
-    flex: 0 0 min(82vw, 340px);
-    scroll-snap-align: start;
-  }
-
+  .rental-grid,
+  .destination-grid,
+  .business-reason-grid,
+  .pleasure-reason-grid,
+  .reason-grid,
+  .itinerary-grid,
+  .guide-card-grid,
   .industry-stat-grid,
   .intent-choice-grid,
-  .review-proof {
+  .review-proof,
+  .static-rental-summary .guide-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .review-card-grid,
+  .active-guide__grid,
+  .stay-match-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .rental-grid--two,
+  .rental-grid--four,
+  .rental-grid--results {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .rental-card {
+    box-shadow: 0 8px 20px rgba(24, 32, 31, 0.07);
+  }
+
+  .rental-card__body {
+    gap: 8px;
+    padding: 12px;
+  }
+
+  .rental-card__body h3 {
+    font-size: 0.98rem;
+    line-height: 1.15;
+  }
+
+  .rental-card__meta {
+    font-size: 0.68rem;
+  }
+
+  .rental-card__body p {
+    font-size: 0.82rem;
+    line-height: 1.35;
+  }
+
+  .rental-card__details {
+    min-height: 0;
+    gap: 5px;
+  }
+
+  .rental-card__details span {
+    padding: 4px 6px;
+    font-size: 0.68rem;
+  }
+
+  .rental-card__body .button {
+    min-height: 40px;
+    padding: 9px 8px;
+    font-size: 0.82rem;
+  }
+
+  .badge,
+  .available-pill {
+    top: 8px;
+    left: 8px;
+    padding: 4px 6px;
+    font-size: 0.66rem;
+  }
+
+  .available-pill {
+    left: auto;
+    right: 8px;
+    font-size: 0.8rem;
+  }
+
+  .rental-grid--four .rental-card__body {
+    display: flex;
+    grid-template-rows: none;
+  }
+
   .industry-stat-grid article,
+  .reason-grid article,
   .intent-choice-grid a,
   .review-proof article {
     min-width: 0;
@@ -3152,11 +3212,29 @@ h3 {
   .business-reason-grid .destination-card,
   .pleasure-reason-grid .destination-card,
   .destination-card {
-    grid-template-rows: 170px 1fr;
+    grid-template-rows: 120px 1fr;
+  }
+
+  .destination-card div {
+    padding: 12px;
+  }
+
+  .destination-card span {
+    font-size: 0.66rem;
+  }
+
+  .destination-card h3 {
+    font-size: 0.96rem;
+    line-height: 1.15;
+  }
+
+  .destination-card p {
+    font-size: 0.8rem;
+    line-height: 1.35;
   }
 
   .destination-card--wedding {
-    grid-template-rows: 220px 1fr;
+    grid-template-rows: 150px 1fr;
   }
 
   .review-card {
