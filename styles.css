@@ -3125,7 +3125,6 @@ h3 {
   .destination-grid,
   .business-reason-grid,
   .pleasure-reason-grid,
-  .reason-grid,
   .itinerary-grid,
   .guide-card-grid,
   .industry-stat-grid,
@@ -3142,6 +3141,63 @@ h3 {
 
   .mobile-hidden {
     display: none !important;
+  }
+
+  .booking-guide {
+    padding-top: 22px;
+  }
+
+  .booking-guide .section__heading {
+    display: none;
+  }
+
+  .booking-guide .reason-grid {
+    grid-template-columns: 1fr;
+    gap: 0;
+    overflow: hidden;
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: 0 8px 20px rgba(17, 24, 39, 0.07);
+  }
+
+  .booking-guide .reason-grid article {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 4px 10px;
+    padding: 12px 14px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .booking-guide .reason-grid article + article {
+    border-top: 1px solid var(--line);
+  }
+
+  .booking-guide .reason-grid span {
+    grid-row: 1 / span 2;
+    width: 28px;
+    height: 28px;
+    margin: 0;
+    display: inline-grid;
+    place-items: center;
+    color: var(--white);
+    background: var(--river);
+    border-radius: 999px;
+    font-size: 0.78rem;
+    line-height: 1;
+  }
+
+  .booking-guide .reason-grid h3 {
+    font-size: 0.96rem;
+    line-height: 1.15;
+  }
+
+  .booking-guide .reason-grid p {
+    margin: 0;
+    font-size: 0.82rem;
+    line-height: 1.35;
   }
 
   .rental-grid--two,
