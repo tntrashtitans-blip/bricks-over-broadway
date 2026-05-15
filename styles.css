@@ -1583,6 +1583,10 @@ h3 {
   display: none;
 }
 
+.mobile-review-pill {
+  display: none;
+}
+
 .review-card-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -3250,6 +3254,21 @@ h3 {
   .mobile-review-list {
     display: grid;
     gap: 12px;
+  }
+
+  .mobile-review-pill {
+    display: inline-flex;
+    align-items: center;
+    width: fit-content;
+    margin: 0 0 14px;
+    padding: 8px 12px;
+    color: var(--white);
+    background: var(--brick);
+    border-radius: 999px;
+    font-size: 0.84rem;
+    font-weight: 950;
+    text-transform: uppercase;
+    box-shadow: 0 8px 18px rgba(216, 63, 49, 0.18);
   }
 
   .mobile-review-list article {
