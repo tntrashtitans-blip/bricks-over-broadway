@@ -106,6 +106,11 @@ img {
   box-shadow: 0 10px 22px rgba(216, 63, 49, 0.2);
 }
 
+.nav__mobile-cta,
+.nav__menu {
+  display: none;
+}
+
 .hero {
   min-height: 64vh;
   display: grid;
@@ -2733,14 +2738,104 @@ h3 {
 
 @media (max-width: 920px) {
   .nav {
-    align-items: flex-start;
-    flex-direction: column;
+    align-items: center;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto auto;
+    gap: 8px;
+    padding: 10px 14px;
   }
 
   .nav__links {
-    width: 100%;
-    overflow-x: auto;
-    padding-bottom: 4px;
+    display: none;
+  }
+
+  .nav__logo {
+    min-width: 0;
+    max-width: none;
+    font-size: clamp(1rem, 4.8vw, 1.34rem);
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .nav__mobile-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    width: 80px;
+    padding: 9px 10px;
+    color: var(--white);
+    background: var(--brick);
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-weight: 900;
+    line-height: 1;
+    text-decoration: none;
+    box-shadow: 0 8px 18px rgba(216, 63, 49, 0.22);
+  }
+
+  .nav__menu {
+    position: relative;
+    display: block;
+  }
+
+  .nav__menu summary {
+    display: grid;
+    width: 44px;
+    height: 44px;
+    place-items: center;
+    gap: 4px;
+    padding: 10px;
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: 0 8px 18px rgba(17, 24, 39, 0.08);
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .nav__menu summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .nav__menu summary span {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: var(--ink);
+    border-radius: 999px;
+  }
+
+  .nav__menu-panel {
+    position: absolute;
+    top: calc(100% + 10px);
+    right: 0;
+    z-index: 40;
+    display: grid;
+    width: min(82vw, 330px);
+    padding: 10px;
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+  }
+
+  .nav__menu-panel a {
+    padding: 12px 10px;
+    color: var(--ink);
+    border-radius: 6px;
+    font-size: 0.98rem;
+    font-weight: 850;
+    text-decoration: none;
+  }
+
+  .nav__menu-panel a + a {
+    border-top: 1px solid rgba(214, 228, 240, 0.85);
+  }
+
+  .nav__menu-panel a:hover {
+    color: var(--brick);
+    background: #f8fcff;
   }
 
   .hero,
@@ -2872,13 +2967,24 @@ h3 {
 }
 
 @media (max-width: 640px) {
-  .nav__links {
-    gap: 14px;
-    font-size: 0.88rem;
+  .nav {
+    padding-inline: 10px;
   }
 
-  .nav__cta {
-    padding: 9px 11px;
+  .nav__logo {
+    font-size: clamp(0.96rem, 4.6vw, 1.18rem);
+  }
+
+  .nav__mobile-cta {
+    min-height: 40px;
+    width: 72px;
+    padding: 8px 8px;
+    font-size: 0.78rem;
+  }
+
+  .nav__menu summary {
+    width: 40px;
+    height: 40px;
   }
 
   .hero {
@@ -2896,24 +3002,11 @@ h3 {
   }
 
   .availability__form,
-  .destination-grid,
-  .business-reason-grid,
-  .pleasure-reason-grid,
-  .rental-grid,
-  .reason-grid,
-  .itinerary-grid,
   .game-day-flow,
-  .industry-stat-grid,
-  .intent-choice-grid,
-  .guide-card-grid,
-  .static-rental-summary .guide-list,
   .faq-list,
-  .review-proof,
-  .review-card-grid,
   .visit-reasons__panel,
   .guide-directory__grid,
-  .active-guide__grid,
-  .stay-match-grid {
+  .active-guide__grid {
     grid-template-columns: 1fr;
   }
 
@@ -2998,5 +3091,75 @@ h3 {
 
   .booking-hero__panel strong {
     font-size: 2rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .rental-grid,
+  .destination-grid,
+  .business-reason-grid,
+  .pleasure-reason-grid,
+  .reason-grid,
+  .itinerary-grid,
+  .guide-card-grid,
+  .review-card-grid,
+  .active-guide__grid,
+  .stay-match-grid,
+  .static-rental-summary .guide-list {
+    display: flex;
+    grid-template-columns: none;
+    gap: 14px;
+    margin-inline: calc(clamp(14px, 5vw, 28px) * -1);
+    padding: 2px clamp(14px, 5vw, 28px) 12px;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: thin;
+  }
+
+  .rental-grid > *,
+  .destination-grid > *,
+  .business-reason-grid > *,
+  .pleasure-reason-grid > *,
+  .reason-grid > *,
+  .itinerary-grid > *,
+  .guide-card-grid > *,
+  .review-card-grid > *,
+  .active-guide__grid > *,
+  .stay-match-grid > *,
+  .static-rental-summary .guide-list > * {
+    flex: 0 0 min(82vw, 340px);
+    scroll-snap-align: start;
+  }
+
+  .industry-stat-grid,
+  .intent-choice-grid,
+  .review-proof {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .industry-stat-grid article,
+  .intent-choice-grid a,
+  .review-proof article {
+    min-width: 0;
+  }
+
+  .industry-stat-grid strong,
+  .review-proof strong {
+    font-size: clamp(1.2rem, 6vw, 1.75rem);
+  }
+
+  .business-reason-grid .destination-card,
+  .pleasure-reason-grid .destination-card,
+  .destination-card {
+    grid-template-rows: 170px 1fr;
+  }
+
+  .destination-card--wedding {
+    grid-template-rows: 220px 1fr;
+  }
+
+  .review-card {
+    grid-template-rows: minmax(0, 380px) auto;
   }
 }
